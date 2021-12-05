@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bamdad-rar
+- 🌱 I think Python is cool
+- I’m currently learning machine learning and artificial intelligence
+- 📫 bamdad.rar@protonmail.com
