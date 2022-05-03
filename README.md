@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Bamdad-rar
-- 🌱 I think Python is cool
-- I’m currently learning AI\ML, more Python, and Go.
+- 🌱 I think Python is very cool
+- I’m currently Python and Go.
 - 📫 bamdad.rar@protonmail.com
