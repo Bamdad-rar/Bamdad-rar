@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Bamdad-rar
-- 🌱 I think Python is very cool
-- I’m currently Python and Go.
+- Python and Go are awesome!
+- 🌱 “There’s nothing wrong with you that an expensive operation can’t prolong.” – Monty Python
 - 📫 bamdad.rar@protonmail.com
