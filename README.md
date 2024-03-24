@@ -13,7 +13,7 @@ class SoftwareEngineer:
 ```
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/bamdadabbasian/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Bamdad-rar)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-bamdadabbasian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bamdadabbasian/)](https://www.linkedin.com/in/bamdadabbasian/)
+[![GitHub Bamdad-rar](https://img.shields.io/github/followers/Bamdad-rar?label=follow&style=social)](https://github.com/Bamdad-rar)
 
 I <b>love</b> connecting with people so don't be shy to say hi => 📫 bamdad.rar@protonmail.com
