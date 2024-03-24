@@ -1,7 +1,7 @@
 <h1>Hello World! 👋 , I’m @Bamdad-rar</h1>
-<p align="center">
-  <img  src="./yeyaw.gif" alt="yeyaw" height="400" width="400" />
+<h3>I'm a software engineer with a love for python, goland and other stuff</h3>
+<p>
+  <img  src="./ohh.gif" alt="ohhh" height="300" width="300" />
 </p>
-- Python and Go are awesome!
-- 🌱 “There’s nothing wrong with you that an expensive operation can’t prolong.” – Monty Python
-- 📫 bamdad.rar@protonmail.com
+
+And If you wanna reach out => 📫 bamdad.rar@protonmail.com
