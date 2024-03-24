@@ -11,7 +11,10 @@ class SoftwareEngineer:
   name: "Bamdad"
   born: "1994/10/25"
 
-  backend: ["Python", "Go"],
+  backend: [
+    {"Python": ["Django", "Flask", "FastAPI"]},
+    {"Go": ["Gin"]}
+    ],
   frontend: ["HTML", "Javascript", "CSS", "HTMX", "Svelte"],
   database: ["Postgresql", "MongoDB", "Redis", "Pinecone", "ChromaDB"],
   architecture: ["event-driven", "monolith", "microservices"],
