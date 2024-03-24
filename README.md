@@ -4,4 +4,16 @@
   <img  src="./ohh.gif" alt="ohhh" height="300" width="400" />
 </p>
 
-And If you wanna reach out => 📫 bamdad.rar@protonmail.com
+```python
+@dataclass
+class SoftwareEngineer:
+  name: "Bamdad"
+  born: "1994/10/25"
+  
+```
+
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/bamdadabbasian/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Bamdad-rar)
+
+I <b>love</b> connecting with people so don't be shy to say hi => 📫 bamdad.rar@protonmail.com
