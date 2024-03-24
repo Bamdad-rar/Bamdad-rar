@@ -1,5 +1,5 @@
 <h1>Hello World! 👋 , I’m @Bamdad-rar</h1>
-<h3>I'm a software engineer with a love for python, goland and other stuff</h3>
+<h3>I'm a software engineer with a love for python, golang and other stuff</h3>
 
 <p>
   <img  src="./ohh.gif" alt="ohhh" height="300" width="400" />
@@ -10,7 +10,11 @@
 class SoftwareEngineer:
   name: "Bamdad"
   born: "1994/10/25"
-
+  
+  backend: ["Python", "Go"],
+  frontend: ["HTML", "Javascript", "CSS", "HTMX", "Svelte"],
+  database: ["Postgresql", "mySQL", "Redis"],
+  architecture: ["event-driven", "monolith", "microservices"],
   
 ```
 
