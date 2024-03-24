@@ -20,4 +20,4 @@ class SoftwareEngineer:
 
 I <b>love</b> connecting with people so don't be shy to say hi => 📫 bamdad.rar@protonmail.com
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote="The curse of much knowledge is often indecision. What is better? To be born good or to overcome your evil nature through great effort?"&author=paarthurnax)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
