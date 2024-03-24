@@ -23,7 +23,8 @@ class SoftwareEngineer:
 
 
 [![Linkedin: bamdadabbasian](https://img.shields.io/badge/-bamdadabbasian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bamdadabbasian/)](https://www.linkedin.com/in/bamdadabbasian/)
-[![GitHub Bamdad-rar](https://img.shields.io/github/followers/Bamdad-rar?label=follow&style=social)](https://github.com/Bamdad-rar)
+[![GitHub Bamdad-rar](https://img.shields.io/github/followers/Bamdad-rar?style=social)](https://github.com/Bamdad-rar)
+<!-- [![GitHub Bamdad-rar](https://img.shields.io/github/followers/Bamdad-rar?label=follow&style=social)](https://github.com/Bamdad-rar) -->
 
 Feel free to reach out! I'm always **eager** to **connect** and **chat**. Looking forward to hearing from you!
 📫 bamdad.rar@protonmail.com
