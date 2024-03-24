@@ -1,5 +1,5 @@
-<h1>Hello World! 👋 , I’m @Bamdad-rar</h1>
-<h3>I'm a software engineer with a love for python, golang and other stuff</h3>
+<h2>Hello World! 👋 , I’m @Bamdad-rar</h2>
+<h4>I'm a Software Engineer with a love for building programs, among other stuff</h4>
 
 <p>
   <img  src="./ohh.gif" alt="ohhh" height="300" width="400" />
