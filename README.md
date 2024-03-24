@@ -20,4 +20,4 @@ class SoftwareEngineer:
 
 I <b>love</b> connecting with people so don't be shy to say hi => 📫 bamdad.rar@protonmail.com
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true$quote=The%20curse%20of%20much%20knowledge%20is%20often%20indecision.%20What%20is%20better%3F%20To%20be%20born%20good%20or%20to%20overcome%20your%20evil%20nature%20through%20great%20effort%3F&author=paarthurnax)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20curse%20of%20much%20knowledge%20is%20often%20indecision.%20What%20is%20better%3F%20To%20be%20born%20good%20or%20to%20overcome%20your%20evil%20nature%20through%20great%20effort%3F&author=paarthurnax)](https://github.com/piyushsuthar/github-readme-quotes)
